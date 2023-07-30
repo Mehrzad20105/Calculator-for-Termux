@@ -6,7 +6,7 @@
 
   **1. ~ $ git clone https://github.com/Mehrzad20105/Calculator-for-Termux**
 
-  **2. ~ $ cd termux-cal**
+  **2. ~ $ cd Calculator-for-Termux**
 
   **3. ~ $ bash Install.sh**
 
